@@ -26,6 +26,11 @@ pip install -r requirements.txt
    python src/analyze_data.py
    ```
 
+
+   SAMPLE OUTPUT SCREENSHOT -
+   <img width="1920" height="1080" alt="REFERENCE SCREENSHOT OF CURSOR" src="https://github.com/user-attachments/assets/d4acaed8-ceac-4165-b5bb-f9f1ef4af0b8" />
+
+
 ## Tech Stack
 
 - SQLModel
